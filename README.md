@@ -1,1 +1,1 @@
-# Neumorphism-clock
+# Neumorphism-clock with light and dark mode
